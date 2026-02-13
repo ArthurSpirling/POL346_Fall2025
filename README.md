@@ -15,9 +15,11 @@ My goal was particularly to help students writing quantitative junior papers and
 
 The following materials may of interest to other instructors: 
 
-- Syllabus: so you can see what I taught week to week
-- Book346: these are my course notes, and constitute a "textbook" of sorts for the course.
-- Labs: these follow the lectures and course notes closely, and use R.
+- [Syllabus](https://github.com/user-attachments/files/25299109/POL346_syllabus_AUGUST.pdf): so you can see what I taught week to week
+- [Book346](https://arthurspirling.org/BookPOL346/): these are my course notes, and constitute a "textbook" of sorts for the course.
+- [Labs](labs.html): these follow the lectures and course notes closely, and use R.
 
 
 I hope these materials are helpful, please drop me a line if I can be further assistance. 
+
+
