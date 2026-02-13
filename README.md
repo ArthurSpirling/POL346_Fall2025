@@ -17,7 +17,7 @@ The following materials may of interest to other instructors:
 
 - [Syllabus](https://github.com/user-attachments/files/25299109/POL346_syllabus_AUGUST.pdf): so you can see what I taught week to week
 - [Book346](https://arthurspirling.org/BookPOL346/): these are my course notes, and constitute a "textbook" of sorts for the course.
-- [Labs](https://github.com/ArthurSpirling/POL346_Fall2025/blob/main/labs.html): these follow the lectures and course notes closely, and use R. My teaching assistant was [Yingjie Fan](https://politics.princeton.edu/people/yingjie-fan) and she did an excellent job putting these lab materials together. 
+- [Labs](https://arthurspirling.org/Labs346Fall2025/labs.html)): these follow the lectures and course notes closely, and use R. My teaching assistant was [Yingjie Fan](https://politics.princeton.edu/people/yingjie-fan) and she did an excellent job putting these lab materials together. 
 
 
 I hope these materials are helpful, please drop me a line if I can be further assistance. 
