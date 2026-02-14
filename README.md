@@ -1,11 +1,13 @@
 
-<img width="252" height="200" alt="b2533c19-f556-4e56-842d-d9c03ec2034c" src="https://github.com/user-attachments/assets/53dff8ac-b3fb-490a-818e-b7a302184ffd" />
-
 # POL 346 Applied Quantitative Analysis (Fall 2025)
 
-At Princeton in Fall 2025, I taught POL346 *[Applied Quantitative Analysis](https://registrar.princeton.edu/course-offerings/course-details?term=1262&courseid=005329)*.  I designed the course to build on POL345 *[Introduction to Quantitative Social Science](https://registrar.princeton.edu/course-offerings/course-details?term=1262&courseid=013781)*.
-With that in mind, it starts out by reiterating some material from POL345, albeit using some different approaches.  It then moves on to other topics such as 
+<table>
+<tr>
+<td width="65%">
 
+At Princeton in Fall 2025, I taught POL346 *[Applied Quantitative Analysis](https://registrar.princeton.edu/course-offerings/course-details?term=1262&courseid=005329)*.  I designed the course to build on POL345 *[Introduction to Quantitative Social Science](https://registrar.princeton.edu/course-offerings/course-details?term=1262&courseid=013781)*.
+
+With that in mind, it starts out by reiterating some material from POL345, albeit using some different approaches.  It then moves on to other topics such as 
 - prediction (simple machine learning)
 - causal inference from regression
 - quasi-experiments
@@ -14,7 +16,16 @@ With that in mind, it starts out by reiterating some material from POL345, albei
 - text as data
 - ethics
 
-My goal was particularly to help students writing quantitative junior papers and senior theses. 
+My goal was particularly to help students writing quantitative junior papers and senior theses.
+
+</td>
+<td width="35%">
+
+<img width="252" height="200" alt="b2533c19-f556-4e56-842d-d9c03ec2034c" src="https://github.com/user-attachments/assets/53dff8ac-b3fb-490a-818e-b7a302184ffd" />
+
+</td>
+</tr>
+</table>
 
 The following materials may of interest to other instructors: 
 
