@@ -1,9 +1,9 @@
 
 # POL 346 Applied Quantitative Analysis (Fall 2025)
 
-<table border="0">
+<table style="border-collapse: collapse; border: none;">
 <tr>
-<td width="65%">
+<td style="border: none;" width="65%">
 
 At Princeton in Fall 2025, I taught POL346 *[Applied Quantitative Analysis](https://registrar.princeton.edu/course-offerings/course-details?term=1262&courseid=005329)*.  I designed the course to build on POL345 *[Introduction to Quantitative Social Science](https://registrar.princeton.edu/course-offerings/course-details?term=1262&courseid=013781)*.
 
@@ -19,7 +19,7 @@ With that in mind, it starts out by reiterating some material from POL345, albei
 My goal was particularly to help students writing quantitative junior papers and senior theses.
 
 </td>
-<td width="35%">
+<td style="border: none;" width="35%">
 
 <img width="252" height="200" alt="b2533c19-f556-4e56-842d-d9c03ec2034c" src="https://github.com/user-attachments/assets/53dff8ac-b3fb-490a-818e-b7a302184ffd" />
 
