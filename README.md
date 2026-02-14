@@ -1,7 +1,7 @@
 
 # POL 346 Applied Quantitative Analysis (Fall 2025)
 
-<table>
+<table border="0">
 <tr>
 <td width="65%">
 
