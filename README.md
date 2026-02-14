@@ -1,9 +1,7 @@
 
 # POL 346 Applied Quantitative Analysis (Fall 2025)
 
-<table style="border-collapse: collapse; border: none;">
-<tr>
-<td style="border: none;" width="65%">
+<img align="right" width="252" height="200" alt="b2533c19-f556-4e56-842d-d9c03ec2034c" src="https://github.com/user-attachments/assets/53dff8ac-b3fb-490a-818e-b7a302184ffd" />
 
 At Princeton in Fall 2025, I taught POL346 *[Applied Quantitative Analysis](https://registrar.princeton.edu/course-offerings/course-details?term=1262&courseid=005329)*.  I designed the course to build on POL345 *[Introduction to Quantitative Social Science](https://registrar.princeton.edu/course-offerings/course-details?term=1262&courseid=013781)*.
 
@@ -17,15 +15,6 @@ With that in mind, it starts out by reiterating some material from POL345, albei
 - ethics
 
 My goal was particularly to help students writing quantitative junior papers and senior theses.
-
-</td>
-<td style="border: none;" width="35%">
-
-<img width="252" height="200" alt="b2533c19-f556-4e56-842d-d9c03ec2034c" src="https://github.com/user-attachments/assets/53dff8ac-b3fb-490a-818e-b7a302184ffd" />
-
-</td>
-</tr>
-</table>
 
 The following materials may of interest to other instructors: 
 
