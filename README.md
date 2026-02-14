@@ -1,6 +1,6 @@
 # POL 346 Applied Quantitative Analysis (Fall 2025)
 
-At Princeton in Fall 2025, I taught POL346 *[Applied Quantitative Analysis](https://registrar.princeton.edu/course-offerings/course-details?term=1262&courseid=005329)*.  I designed the course to build on POL345 [Introduction to Quantitative Social Science](https://registrar.princeton.edu/course-offerings/course-details?term=1262&courseid=013781).
+At Princeton in Fall 2025, I taught POL346 *[Applied Quantitative Analysis](https://registrar.princeton.edu/course-offerings/course-details?term=1262&courseid=005329)*.  I designed the course to build on POL345 *[Introduction to Quantitative Social Science](https://registrar.princeton.edu/course-offerings/course-details?term=1262&courseid=013781)*.
 With that in mind, it starts out by reiterating some material from POL345, albeit using some different approaches.  It then moves on to other topics such as 
 
 - prediction (simple machine learning)
