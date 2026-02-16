@@ -20,7 +20,7 @@ The following materials may of interest to other instructors:
 
 - [Syllabus](https://github.com/user-attachments/files/25299109/POL346_syllabus_AUGUST.pdf): so you can see what I taught week to week
 - [Book346](https://arthurspirling.org/BookPOL346/index.html): these are my course notes, and constitute a "textbook" of sorts for the course.
-- [Labs](https://arthurspirling.org/BookPOL346/labs.html): these follow the lectures and course notes closely, and use R. My teaching assistant was [Yingjie Fan](https://yingjiefan.com/) and she did an excellent job putting these lab materials together. 
+- [Labs](https://arthurspirling.org/BookPOL346/labs.html): these follow the lectures and course notes closely, and use [R](https://www.r-project.org/). My teaching assistant was [Yingjie Fan](https://yingjiefan.com/) and she did an excellent job putting these lab materials together. 
 
 
 I hope these materials are helpful, please drop me a line if I can be further assistance. 
