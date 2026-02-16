@@ -14,7 +14,7 @@ With that in mind, it starts out by reiterating some material from POL345, albei
 - text as data
 - ethics
 
-My goal was particularly to help Politics students writing quantitative junior papers and senior theses. Given the number of topics, it is inevitably broad rather than deep.  But my primary goal was to give students an overview of applied quantitative methods so they were at least familiar with the possibilities. They could follow up in their own time if an approach seemed promising. Just to give an example, I wanted them to have heard of "fixed effects" or "naive Bayes" or "IRB" if that came up in a discussion with their adviser.
+My goal was particularly to help Politics students writing quantitative junior papers and senior theses. Given the number of topics, it is  broad rather than deep.  But my aim was to give students an overview of applied quantitative methods so they were at least familiar with the possibilities. They could follow up in their own time if an approach seemed promising. Just to give an example, I wanted them to have heard of "fixed effects" or "naive Bayes" or "IRB" if that came up in a discussion with their adviser.
 
 The following materials may of interest to other instructors: 
 
